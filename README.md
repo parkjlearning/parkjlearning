@@ -7,7 +7,7 @@
 <li> :eyes: I'm also working on a semantic image segmentation project (brain tumor segmentation).</li><br>  
 <li> 🌱 I’m currently learning Computer Vision, NLP, PyTorch.</li><br>
 <li> 💬 Ask me about anything, I am happy to help.</li><br> 
-<li> 📫 How to reach me: yojcpark@gmail.com </li><br>
+<li> 📫 How to reach me: <i>yojcpark@gmail.com</li><br>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
