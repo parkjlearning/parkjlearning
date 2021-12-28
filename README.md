@@ -1,12 +1,14 @@
 <h1 align="left">Hey there 👋, I'm Junchol!</h1>
 <h3 align="left">I'm a passionate data scientist/neuroscientist: </h3>
-<li> :microscope: Neuroscientist who has +10 yrs of experience in neural data analysis.</li><br>
+<li> :microscope: Neuroscientist who has +10 yrs of experience in neural data collection and analysis.</li><br>
+<li> :page_with_curl:You can read my neuroscience articles here: <a href="https://scholar.google.com/citations?user=EZELpW8AAAAJ&hl=en">Google scholar</a></li><br> 
 <li> :chart_with_upwards_trend: Time series aficionado who loves to model temporal dynamics to predict the future.</li><br>     
-<li> 🔭 I’m currently working on <a href="https://github.com/parkjlearning/covid19_forecasting">Covid-19 forecasting</a></li><br> 
+<li> 🔭 I’m currently working on <a href="https://github.com/parkjlearning/covid19_forecasting">Covid-19 forecasting project</a></li><br> 
+
 <li> 🌱 I’m currently learning Computer Vision, NLP, PyTorch.</li><br>
 <li> 💬 Ask me about anything, I am happy to help.</li><br> 
 <li> 📫 How to reach me: yojcpark@gmail.com </li><br>
-<li> :page_with_curl:You can read my neuroscience articles here: <a href="https://scholar.google.com/citations?user=EZELpW8AAAAJ&hl=en">Google scholar</a></li><br>  
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/juncholp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juncholp" height="30" width="40" /></a>
