@@ -2,11 +2,11 @@
 <h3 align="left">I'm a passionate data scientist/neuroscientist: </h3>
 - :microscope: Neuroscientist who has +10 yrs of experience in neural data analysis.<br>
 - :chart_with_upwards_trend: Time series aficionado who loves to model temporal dynamics to predict the future.<br>     
-- 🔭 I’m currently working on [Covid-19 forecasting](https://github.com/parkjlearning/covid19_forecasting).<br>  
+- 🔭 I’m currently working on [Covid-19 forecasting](https://github.com/parkjlearning/covid19_forecasting). <br>  
 - 🌱 I’m currently learning Computer Vision, NLP, PyTorch.<br>
 - 💬 Ask me about anything, I am happy to help.<br> 
 - 📫 How to reach me: yojcpark@gmail.com<br>
-- :page_with_curl:You can read my articles in neuroscience here :arrow_right: [Google scholar](https://scholar.google.com/citations?user=EZELpW8AAAAJ&hl=en)<br>
+- :page_with_curl:You can read my articles in neuroscience here :arrow_right: [Google scholar](https://scholar.google.com/citations?user=EZELpW8AAAAJ&hl=en) <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
