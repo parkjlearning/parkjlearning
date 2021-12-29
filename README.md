@@ -1,6 +1,6 @@
 <h1 align="left">Hey there 👋, I'm Junchol!</h1>
 <h4 align="left">I'm a data scientist with expertise and passion in bridging AI and biomedical science 1) to improve patient care, 2) to support biomedical research. Bridging the gap my work is towards AI-based medical diagnosis, prognosis, drug discovery, and new tool development.<br/><br/>
-<li> :microscope: Neuroscientist who has +10 yrs of experience in neural data collection and analysis.</li><br>
+<li> :microscope: Neuroscientist with +10 yrs of experience in neural data collection and analysis.</li><br>
 <li> :page_with_curl:You can read my neuroscience articles here: <a href="https://scholar.google.com/citations?user=EZELpW8AAAAJ&hl=en">Google scholar</a></li><br> 
 <li> :chart_with_upwards_trend: Time series aficionado who loves to model temporal dynamics to predict the future.</li><br>     
 <li> 🔭 I’m currently working on <a href="https://github.com/parkjlearning/covid19_forecasting">Covid-19 forecasting project</a></li><br> 
