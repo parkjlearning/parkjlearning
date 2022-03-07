@@ -3,6 +3,7 @@
 <li> :microscope: Neuroscientist with +10 yrs of experience in neural data collection and analysis.</li><br>
 <li> :page_with_curl:You can read my neuroscience articles here: <a href="https://scholar.google.com/citations?user=EZELpW8AAAAJ&hl=en">Google scholar</a></li><br> 
 <li> :chart_with_upwards_trend: Time series aficionado who loves to model temporal dynamics to predict the future.</li><br>     
+<li> 🔭 I’m currently working on <a href="https://github.com/parkjlearning/BrainTumorSegmentation">Brain Tumor Segmentation project</a></li><br> 
 <li> 🔭 I’m currently working on <a href="https://github.com/parkjlearning/covid19_forecasting">Covid-19 forecasting project</a></li><br> 
 <li> :eyes: I'm also working on a semantic image segmentation project (brain tumor segmentation).</li><br>  
 <li> 🌱 I’m currently learning Computer Vision, NLP, PyTorch.</li><br>
